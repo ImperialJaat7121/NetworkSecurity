@@ -7,7 +7,7 @@ project_name = "NetworkSecurity"
 list_of_files = [
     ".gitignore",
     ".github/workflows/main.yml",
-    "Network_Data/",
+    "Network_Data/sample_data.csv",
     "networksecurity/__init__.py",
     "networksecurity/components/__init__.py",
     "networksecurity/constants/__init__.py",
@@ -17,7 +17,7 @@ list_of_files = [
     "networksecurity/pipeline/__init__.py",
     "networksecurity/utils/__init__.py",
     "networksecurity/cloud/__init__.py",
-    "notebooks/",
+    "notebooks/experiments.ipynb",
     "Dockerfile",
     "setup.py",
     "README.md",
