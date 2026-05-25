@@ -10,6 +10,7 @@ list_of_files = [
     # "Network_Data/sample_data.csv",
     "networksecurity/__init__.py",
     "networksecurity/components/__init__.py",
+    "networksecurity/components/data_ingestion.py",
     "networksecurity/constants/__init__.py",
     "networksecurity/entity/__init__.py",
     "networksecurity/logging/__init__.py",
