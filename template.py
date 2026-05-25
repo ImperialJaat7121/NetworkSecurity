@@ -7,7 +7,7 @@ project_name = "NetworkSecurity"
 list_of_files = [
     ".gitignore",
     ".github/workflows/main.yml",
-    "Network_Data/sample_data.csv",
+    # "Network_Data/sample_data.csv",
     "networksecurity/__init__.py",
     "networksecurity/components/__init__.py",
     "networksecurity/constants/__init__.py",
