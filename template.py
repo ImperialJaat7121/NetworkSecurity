@@ -24,6 +24,8 @@ list_of_files = [
     "networksecurity/exception/__init__.py",
     "networksecurity/exception/exception.py",
     "networksecurity/pipeline/__init__.py",
+    "networksecurity/pipeline/batch_prediction.py",
+    "networksecurity/pipeline/training_pipeline.py",
     "networksecurity/utils/main_utils/__init__.py",
     "networksecurity/utils/main_utils/utils.py",
     "networksecurity/utils/__init__.py",
@@ -35,6 +37,7 @@ list_of_files = [
     "networksecurity/cloud/__init__.py",
     "notebooks/experiments.ipynb",
     "data_schema/schema.yaml",
+    "templates/table.html"
     "Dockerfile",
     "setup.py",
     "main.py",
